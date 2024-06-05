@@ -6,9 +6,13 @@
 >
 > golang只能看懂一点点，所以大部分代码都是gpt辅助完成的，今天gpt炸了，搞得我都休息半天了
 
-> 附上一个合并finger.json的脚本，如果a.json和b.json里的某个cms名字相同，并且规则也相同会自动去重。
+> 附上一个合并finger.json的脚本，合并后如果a.json和b.json里的某个cms名字相同，并且规则也相同会自动去重。+v获取
 >
 > 希望各位兄弟们能够分享一下finger.json，十分感谢，这里附上我的finger.json
+>
+> 加我vx，互相分享指纹文件
+
+<img src="https://github.com/qwe1433223/EHole_magic_magic/blob/main\README.assets\image-20240605103031397.png" alt="image-20240605103031397" style="zoom:25%;" />
 
 ### 效果
 
