@@ -22,7 +22,7 @@
 
 ![image-20240604202019107](https://github.com/qwe1433223/EHole_magic_magic/blob/main/README.assets/image-20240604202019107.png)
 
-![image-20240604202237155](README.assets\image-20240604202237155.png)
+![image-20240604202237155](https://github.com/qwe1433223/EHole_magic_magic/blob/main/README.assets/image-20240604202237155.png)
 
 ```php
 [error_StatusCode]
