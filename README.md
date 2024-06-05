@@ -12,7 +12,7 @@
 
 ### 效果
 
-![image-20240604204737304](D:\0-网安小工具\1-网络安全\0.1-信息收集\03-EHole\usage\其它\源码_魔改中\README.assets\image-20240604204737304.png)
+![image-20240604204737304](README.assets\image-20240604204737304.png)
 
 
 
@@ -20,9 +20,9 @@
 
 > 在FinScan结构体中加了两个列表，默认的错误标题有这些，然后可以通过config.ini指定不需要的标题
 
-![image-20240604202019107](D:\0-网安小工具\1-网络安全\0.1-信息收集\03-EHole\usage\其它\源码_魔改中\README.assets\image-20240604202019107.png)
+![image-20240604202019107](README.assets\image-20240604202019107.png)
 
-![image-20240604202237155](D:\0-网安小工具\1-网络安全\0.1-信息收集\03-EHole\usage\其它\源码_魔改中\README.assets\image-20240604202237155.png)
+![image-20240604202237155](README.assets\image-20240604202237155.png)
 
 ```php
 [error_StatusCode]
@@ -44,7 +44,7 @@ error_message5 = "未注册"
 
 > 最后总结的时候，根据CMS来进行分类输出，看资产的时候感觉脑子都好使了
 
-![image-20240604202531847](D:\0-网安小工具\1-网络安全\0.1-信息收集\03-EHole\usage\其它\源码_魔改中\README.assets\image-20240604202531847.png)
+![image-20240604202531847](README.assets\image-20240604202531847.png)
 
 ### 魔改3
 
@@ -54,4 +54,4 @@ error_message5 = "未注册"
 代码我忘记在哪了。。应该不在finger.go文件内。。
 ```
 
-![image-20240604203505328](D:\0-网安小工具\1-网络安全\0.1-信息收集\03-EHole\usage\其它\源码_魔改中\README.assets\image-20240604203505328.png)
+![image-20240604203505328](README.assets\image-20240604203505328.png)
