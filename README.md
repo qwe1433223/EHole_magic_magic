@@ -12,7 +12,7 @@
 >
 > 加我vx，互相分享指纹文件
 
-<img src="https://github.com/qwe1433223/EHole_magic_magic/blob/main\README.assets\image-20240605103031397.png" alt="image-20240605103031397" style="zoom:25%;" />
+
 
 ### 效果
 
